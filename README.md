@@ -1,4 +1,4 @@
-# laplacian-reconstruction-smoothing-curvature
+# Laplacian filtering and reconstruction
 
 
 <img width="628" alt="image" src="https://user-images.githubusercontent.com/22410337/222226050-8091d7fe-5709-479d-b1ea-6609b4ca2c50.png">
